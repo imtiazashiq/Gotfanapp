@@ -1,0 +1,80 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GOT</string>
+
+    <!--Jon snow detail-->
+    <string name="m_jon">Jon Snow</string>
+    <string name="jon_desciption">Ned’s bastard son. He joins the Night’s Watch, following in the footsteps of his Uncle Benjen. His direwolf is named Ghost
+    </string>
+    <string name="r_name_jon">PLAYED BY KIT HARINGTON</string>
+
+
+    <!-- daenerys-->
+
+    <string name="m_dae">Daenerys Targaryen</string>
+    <string name="r_name_Daenerys">PLAYED BY EMILIA CLARKE</string>
+    <string name="dae_description">Princess of House Targaryen, living in exile in Essos with her brother, Viserys.</string>
+
+    <!--cersei-->
+    <string name="m_cer">Cersei Lannister</string>
+    <string name="r_name_cer">PLAYED BY LENA HEADEY</string>
+    <string name="cer_description">Queen of the Seven Kingdoms and wife of King Robert. Fiercely protective of her three children, she also has an unusually tight connection to her twin brother, Jaime.</string>
+
+
+    <!--Night king-->
+    <string name="m_nite">Night KIng</string>
+    <string name="r_name_nite">PLAYED BY VLADIMIR FURDIK</string>
+    <string name="nite_description"></string>
+
+
+    <!--tyrion-->
+    <string name="m_ty">Tyrion Lannister</string>
+    <string name="r_name_tyrion">PLAYED BY  PETER DINKLAGE</string>
+    <string name="tyrion_description">Called "The Imp," because of his small stature, he is the youngest son of Tywin Lannister, the richest lord in the Seven Kingdoms and younger brother to Queen Cersei and Ser Jaime Lannister. What he lacks in height, he makes up in wit.</string>
+
+    <!--jamie-->
+    <string name="m_jamie">Jaime Lannister</string>
+    <string name="r_name_jamie">PLAYED BY NIKOLAJ COSTER-WALDAU</string>
+    <string name="jamie_descrition">The Queen’s twin brother. It was he who murdered the previous King (Aerys), despite have sworn to protect him. This deed earned him his nickname: “Kingslayer.”</string>
+
+    <!---Sansa Stark-->
+
+    <string name="m_sansa">Sansa Stark</string>
+    <string name="r_name_sansa">PLAYED BY SOPHIE TURNER</string>
+    <string name="sansa_description">Ned and Cat’s oldest daughter. Demure and ladylike, her dream is to marry Prince Joffrey. Her direwolf is named Lady.</string>
+
+    <!--Arya-->
+
+    <string name="m_arya">Arya Stark</string>
+    <string name="r_name_arya">PLAYED BY MAISIE WILLIAMS</string>
+    <string name="arya_description">The younger of Ned and Cat’s two daughters. A tomboy, she would rather fence than dance. Her direwolf is named Nymeria, after a warrior queen.</string>
+
+    <!--Bran-->
+
+    <string name="m_bran">Bran Stark</string>
+    <string name="r_name_bran">PLAYED BY ISAAC HEMPSTEAD-WRIGHT</string>
+    <string name="bran_description">Ned and Cat’s younger son, who has an inquisitive nature and a penchant for climbing Winterfell’s walls. His direwolf is named Summer.</string>
+
+    <!--baelish-->
+
+    <string name="m_baelish">Petyr Baelish</string>
+    <string name="r_name_baelish">PLAYED BY AIDAN GILLEN</string>
+    <string name="baelish_description">Master of Coin and member of the King’s Small Council, he grew up with Catelyn Stark for whom he still harbors feelings. Beyond his official duties, he is the eyes and ears of King’s Landing along with Varys."></string>
+
+    <!--Jorah Mormont-->
+
+    <string name="m_jorah">Jorah Mormont</string>
+    <string name="r_name_jorah">PLAYED BY IAIN GLEN</string>
+    <string name="jorah_description">A knight now in exile in Essos who advises Viserys and Daenerys Targaryen as they make a life among the Dothraki</string>
+
+
+    <!--theon-->
+    <string name="m_theon">Theon Greyjoy</string>
+    <string name="r_name_theon">PLAYED BY ALFIE ALLEN</string>
+    <string name="theon_description">Ned’s ward, heir to House Greyjoy. He was brought to Winterfell after his father, Balon Greyjoy, tried to rise against King Robert. Although raised among the Stark children, he is keenly aware he is not one of them.</string>
+
+
+    <!--About-->
+    <string name="about">It’s a fanbase game of thrones application. Not for commercial use.</string>
+
+
+</resources>
